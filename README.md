@@ -1,6 +1,6 @@
 # Crime Incident Analysis at Boston
 
-**View my project at [this link](http://htmlpreview.github.io/?https://github.com/katieha98/crime-indicent-report-with-python/blob/master/Crime-incident-report.html)**
+**View my project at [this link](https://nbviewer.jupyter.org/github/katiethaoha/crime-indicent-report-with-python/blob/master/Crime-incident-report.ipynb)**
 
 ### Project Overview
 Keeping American public safe is the top priority for governments and all residents in the USA. Based on FBI crime data, Boston is not one of the safest communities in America. In 2017, Boston’s crime rate is 54% higher than the Massachusetts average. On top of that, looking at the violent crimes specifically, Boston has a violent crime rate that is 87% higher than the Massachusetts average and 75% higher than the national average.
